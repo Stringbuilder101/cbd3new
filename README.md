@@ -14,7 +14,7 @@
     Instructors, Students and Search queries.
     Instructors, students, and admin can log in to the other person account because they have a requrement when signing up to have password end with 2 for admin and 1 for
     instructor.
-   
+    Incorrect credentials just bring the user back to the index page. No special message or any suggestions.
    Database was created for deliverable 3 and called myapp. It has the following tables:
    ![Screenshot (749)](https://user-images.githubusercontent.com/90509231/144548064-dc90d470-86c6-4b51-bae6-196f660ba4c8.png)
    To run the app the live server was created and started with nodemon (to install nodemon is npm i 
