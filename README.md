@@ -12,6 +12,8 @@
     Username updates with the administrator who uses the database.
     ![Screenshot (900)](https://user-images.githubusercontent.com/90509231/145154096-11987f41-0edd-44c5-b120-7405a2fa7a51.png)
     Instructors, Students and Search queries.
+    Instructors, students, and admin can log in to the other person account because they have a requrement when signing up to have password end with 2 for admin and 1 for
+    instructor.
    
    Database was created for deliverable 3 and called myapp. It has the following tables:
    ![Screenshot (749)](https://user-images.githubusercontent.com/90509231/144548064-dc90d470-86c6-4b51-bae6-196f660ba4c8.png)
